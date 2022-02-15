@@ -1,0 +1,1 @@
+python predict.py --image_path D:/bk/data/example/bird.jpg --model_path D:/bk/data/Models/ori/model196.ckpt --data_dir D:/bk/data --question "사진에 있는게 무엇인가요?" --version 1
